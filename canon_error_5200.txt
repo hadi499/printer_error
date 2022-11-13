@@ -1,0 +1,8 @@
+Matikan power
+sambil tahan tombol resume tekan tombol power
+lepaskan tombol resume tapi tetap tekan tombol power
+tekan tombol resume 5 kali
+lepaskan tombol power dan biarkan printer reset
+siapkan kertas dan matikan power printer
+hidupkan printer
+testing
